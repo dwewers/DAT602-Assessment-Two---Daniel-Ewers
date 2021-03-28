@@ -2,15 +2,12 @@
 ----
 
 <p align="center">
-<strong><a href="#link1">Link 1</a></strong>
+<strong><a href="https://github.com/dwewers/DAT602-Assessment-Two---Daniel-Ewers/tree/main/DAT602%20Milestone%201%20%20Daniel%20Ewers">Milestone One</a></strong>
 |
-<strong><a href="#link2">Link 2</a></strong>
+<strong><a href="https://github.com/dwewers/DAT602-Assessment-Two---Daniel-Ewers/tree/main/DAT602%20Milestone%202%20%20Daniel%20Ewers">Milestone 2</a></strong>
 |
-<strong><a href="#link3">Link 3</a></strong>
-|
-<strong><a href="#link4">Link 4</a></strong>
-|
-<strong><a href="#link5">Link 5</a></strong>
+<strong><a href="https://github.com/dwewers/DAT602-Assessment-Two---Daniel-Ewers/tree/main/DAT602%20Milestone%203%20%20Daniel%20Ewers">Milestone 3</a></strong>
+
 </p>
 
 ----
